@@ -1,0 +1,4 @@
+#Sat Dec 02 11:28:13 CST 2023
+base.0=C\:\\Users\\i_cri\\Documents\\flutter projects\\Deneb-App-main\\Deneb\\deneb\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
